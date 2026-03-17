@@ -34,3 +34,18 @@ Below are the official contract and wallet addresses associated with the project
 ## 🛠 Integration
 
 To use the official UEC logo in your application or UI, use the direct link below:
+
+
+---
+
+## ⚠️ Security Notice
+
+Always verify that you are interacting with the **official Jetton Master Address** listed above.  
+Any other address claiming to represent UEC should be treated as **unverified and potentially fraudulent**.
+
+---
+
+## 🤝 Contributing
+
+1. Fork the repository  
+2. Create your feature branch  
